@@ -1,34 +1,34 @@
 <!-- Banner -->
-<img src="./assets/banner-small.svg">
+<!-- <img src="./assets/banner-small.svg"> -->
 <!-- Top  -->
+<br/>
 <h3 align="center">
         <samp>&gt; Hey, I'm
                 <b><a target="_blank" href="https://github.com/notrealandy">Andy</a></b>
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
     「 Full-Stack website developer 」
-    <br>
-    <br>
+    <br/>
   </samp>
 </p>
-<br />
 
 <!-- About Me -->
- # About Me
- 
+ <p style="font-size: 30px;">ABOUT ME</p>
+
+________________________________________________________________________________________________________
+
+<br/>
 <p>
-    I'm  15 years old Full-Stack website developer who's currently building social site 
+   15 years old crazy Full-Stack website developer who cannot stop building his dreams in reality
 </p>
-
-<br/>
-<br/>
 <br/>
 
-## Use To Code
+________________________________________________________________________________________________________
+
+ <p style="font-size: 30px;">USE TO CODE</p>
 
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
