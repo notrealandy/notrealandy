@@ -16,9 +16,8 @@
 </p>
 
 <!-- About Me -->
- <p style="font-size: 30px;">ABOUT ME</p>
+ # ABOUT ME
 
-________________________________________________________________________________________________________
 
 <br/>
 <p>
@@ -26,9 +25,7 @@ ________________________________________________________________________________
 </p>
 <br/>
 
-________________________________________________________________________________________________________
-
- <p style="font-size: 30px;">USE TO CODE</p>
+ # USE TO CODE
 
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
