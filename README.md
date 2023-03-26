@@ -4,7 +4,7 @@
 <br/>
 <h3 align="center">
         <samp>&gt; Hey, I'm
-                <b><a target="_blank" href="https://github.com/notrealandy">Andy</a></b>
+                <b><a target="_blank" href="https://github.com/notrealandy">Andrew</a></b>
         </samp>
 </h3>
 
