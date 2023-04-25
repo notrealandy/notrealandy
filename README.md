@@ -21,7 +21,7 @@
 
 <br/>
 <p>
-   15 years old crazy Full-Stack website developer who cannot stop building his dreams in reality
+   15 year old crazy Full-Stack website developer who cannot stop building his dreams in reality
 </p>
 <br/>
 
