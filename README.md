@@ -24,6 +24,7 @@
    15 year old crazy Full-Stack website developer who cannot stop building his dreams in reality
 </p>
 <br/>
+[stats](https://readme-stats-phi-indol.vercel.app/api/top-langs/?username=notrealandy&layout=compact&theme=dark#gh-dark-mode-only)
 
  # USE TO CODE
 
