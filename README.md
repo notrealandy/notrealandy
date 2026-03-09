@@ -1,34 +1,17 @@
-<!-- Banner -->
-<!-- <img src="./assets/banner-small.svg"> -->
-<!-- Top  -->
-<br/>
-<h3 align="center">
-        <samp>&gt; Hey, I'm
-                <b><a target="_blank" href="https://github.com/notrealandy">Andrew</a></b>
-        </samp>
-</h3>
+Self-taught developer tryna build experimental software.
 
-<p align="center"> 
-  <samp>
-    「 Full-Stack website developer 」
-    <br/>
-  </samp>
-</p>
+### Current areas I work in:
+- Personal Portfolio (Preact)
+- Tox (a programming language written in C)
+- Local AI agent with vision (Python)
+- Open-World game (C++)
+- Ternary hardware (prototyping)
 
-<!-- About Me -->
- # ABOUT ME
-
+Some projects are already on the profile, some are still private.
 
 <br/>
-<p>
-   16 year old crazy Full-Stack website developer who cannot stop building his dreams in reality
-</p>
-<br/>
 
-# Github Stats 
-![stats](https://readme-stats-phi-indol.vercel.app/api/top-langs/?username=notrealandy&layout=compact&theme=dark#gh-dark-mode-only)
-
- # USE TO CODE
+### Most used languages and tools:
 
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
