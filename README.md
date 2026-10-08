@@ -2,7 +2,7 @@ Self-taught developer tryna build experimental software.
 
 ### Current areas I work in:
 - Personal Portfolio (Preact)
-- Tox (a programming language written in C)
+- Tox (originally in Rust)
 - Local AI agent with vision (Python)
 - Open-World game (C++)
 - Ternary hardware (prototyping)
